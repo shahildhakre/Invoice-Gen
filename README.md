@@ -54,5 +54,5 @@ Contributions are welcome! Please submit a pull request or open an issue to disc
 
 ## Contact
 
-For any inquiries, please contact us at [21uec076@lnmiit.ac.in](mailto:21uec076@lnmiit.ac.in).
+For any inquiries, please contact us at [21ucs186@lnmiit.ac.in](mailto:21ucs186@lnmiit.ac.in).
 
